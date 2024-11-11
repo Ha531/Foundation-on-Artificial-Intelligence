@@ -1,0 +1,1 @@
+Here is a team project where there is a deeper introduction to python, by making calculations of money denominations and using the pandas library
